@@ -1,0 +1,4 @@
+venv*
+sora.egg-info*
+requirements.txt
+test.ipynb
