@@ -11,6 +11,6 @@ setuptools.setup(
         'torch>=1.13.1',
         'scikit-learn',
         'transformers',
-        'opendelta @ git+https://github.com/KwangryeolPark/OpenDelta.git'
+        # 'opendelta @ git+https://github.com/KwangryeolPark/OpenDelta.git'
     ]
 )
