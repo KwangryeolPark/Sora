@@ -1,0 +1,14 @@
+README.md
+setup.py
+sora/__init__.py
+sora.egg-info/PKG-INFO
+sora.egg-info/SOURCES.txt
+sora.egg-info/dependency_links.txt
+sora.egg-info/requires.txt
+sora.egg-info/top_level.txt
+sora/module/__init__.py
+sora/module/config.py
+sora/module/layer.py
+sora/module/model.py
+sora/optim/__init__.py
+sora/optim/adamw.py
